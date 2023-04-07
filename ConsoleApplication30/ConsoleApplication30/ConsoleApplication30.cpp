@@ -6,7 +6,7 @@ void cl()
 }
 int main()
 {
-    std::cout << "World!\n";
+    std::cout << "World fuck!\n";
 
 }
 
